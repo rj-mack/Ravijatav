@@ -27,3 +27,19 @@ const raviJatav = {
   hobbies: ["Building Web Apps", "Learning New Tech", "Exploring Open Source"]
 }
 
+🚀 Projects I'm Proud Of
+
+🔗 Food Delivery App (MERN)
+
+🔗 Admin Dashboard (React + Tailwind)
+
+🔗 Portfolio Website
+
+
+📢 Let's Connect
+
+🌐 Portfolio: ravijatav.dev
+
+💼 LinkedIn: linkedin.com/in/ravijatav
+
+📧 Email: ravijatav@example.com
